@@ -34,7 +34,7 @@ h2{
     font-size: 40px;
     margin-top: 20%;
 }
-#kha{
+#img{
     width: 70%;
    
 }
@@ -43,5 +43,53 @@ h2{
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
 }
-/*----Recipies----*/
-
+.half-width h2 span{
+    color: #ff0157;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+.title{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.row{
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 5px 5px grey;
+        
+    }
+.content{
+    position: relative;
+    border-radius: 50px;
+}
+.coloum{
+    align-items: center;
+}
+footer{
+    background: black;
+    text-align: center;
+}
+footer h2{
+    color: rgb(82, 80, 80);
+    padding-top: 10px;
+}
+footer h3{
+    color:#fff;
+    font-size: 20px;
+    padding-bottom: 5px;
+    padding-top: 2px;
+    font-weight: 500;
+}
+footer h2 span{
+    color: #ff0157;
+}
+.foot{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
