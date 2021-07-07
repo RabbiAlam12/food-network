@@ -54,7 +54,7 @@ h2{
 .text-2{
     margin-top: 5px;
 }
-/*Recipies section*/
+/*---Recipies section---*/
 .recipies-flex{
     margin-top: 5%;
     display: flex;
@@ -75,7 +75,7 @@ h2{
     height: 260px;
     border-radius: 20px 0;
 }
-
+/*---footer---*/
 footer{
     margin-top: 4%;
     padding: 50px 0;
